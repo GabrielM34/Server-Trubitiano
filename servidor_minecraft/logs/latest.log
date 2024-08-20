@@ -645,3 +645,23 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [20:24:38] [Server thread/INFO]: Robert_Rum34 left the game
 [20:24:38] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
 [20:26:28] [Server thread/INFO]: [Not Secure] <GabrielM3> .
+[20:28:41] [Server thread/INFO]: Trubite24 lost connection: Disconnected
+[20:28:41] [Server thread/INFO]: Trubite24 left the game
+[20:28:41] [Server thread/INFO]: [voicechat] Disconnecting client Trubite24
+[20:28:44] [Server thread/INFO]: Trubite24[/127.106.248.68:55897] logged in with entity id 6179 at (634.3497818876252, 127.0, -963.6999999880791)
+[20:28:44] [Server thread/INFO]: Trubite24 joined the game
+[20:28:45] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
+[20:28:45] [Server thread/INFO]: [voicechat] Received secret request of Trubite24 (18)
+[20:28:45] [Server thread/INFO]: [voicechat] Sent secret to Trubite24
+[20:29:13] [Server thread/INFO]: GabrielM3 has made the advancement [Local Brewery]
+[20:33:15] [Server thread/INFO]: GabrielM3 lost connection: Disconnected
+[20:33:15] [Server thread/INFO]: GabrielM3 left the game
+[20:33:15] [Server thread/INFO]: [voicechat] Disconnecting client GabrielM3
+[20:34:41] [Server thread/INFO]: Robert_Rum34[/127.49.2.96:34011] logged in with entity id 6749 at (651.5, 124.0, -799.5)
+[20:34:41] [Server thread/INFO]: Robert_Rum34 joined the game
+[20:34:42] [Server thread/INFO]: Robert_Rum34 lost connection: Disconnected
+[20:34:42] [Server thread/INFO]: Robert_Rum34 left the game
+[20:34:42] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
+[20:36:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:36:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:36:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
