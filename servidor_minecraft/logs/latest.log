@@ -639,3 +639,9 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [20:09:23] [Server thread/INFO]: Robert_Rum34 lost connection: Disconnected
 [20:09:23] [Server thread/INFO]: Robert_Rum34 left the game
 [20:09:23] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
+[20:24:37] [Server thread/INFO]: Robert_Rum34[/127.49.2.96:46221] logged in with entity id 5612 at (651.5, 124.0, -799.5)
+[20:24:37] [Server thread/INFO]: Robert_Rum34 joined the game
+[20:24:38] [Server thread/INFO]: Robert_Rum34 lost connection: Disconnected
+[20:24:38] [Server thread/INFO]: Robert_Rum34 left the game
+[20:24:38] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
+[20:26:28] [Server thread/INFO]: [Not Secure] <GabrielM3> .
