@@ -665,3 +665,17 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [20:36:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [20:36:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [20:36:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:38:51] [Server thread/INFO]: Robert_Rum34[/127.49.2.96:39353] logged in with entity id 7160 at (651.5, 124.0, -799.5)
+[20:38:51] [Server thread/INFO]: Robert_Rum34 joined the game
+[20:38:52] [Server thread/INFO]: Robert_Rum34 lost connection: Disconnected
+[20:38:52] [Server thread/INFO]: Robert_Rum34 left the game
+[20:38:52] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/7362, l='ServerLevel[world]', x=596.70, y=91.00, z=115.70]
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1581['Illusioner'/7363, l='ServerLevel[world]', x=601.51, y=72.00, z=113.30]
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/7364, l='ServerLevel[world]', x=594.30, y=72.00, z=116.30]
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/7365, l='ServerLevel[world]', x=597.30, y=72.00, z=113.30]
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/7366, l='ServerLevel[world]', x=592.30, y=72.00, z=116.30]
+[20:40:30] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/7367, l='ServerLevel[world]', x=596.30, y=72.00, z=115.30]
+[20:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4920ms or 98 ticks behind
+[20:43:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
