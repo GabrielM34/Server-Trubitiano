@@ -826,3 +826,37 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [22:43:54] [Server thread/INFO]: GabrielM3 has made the advancement [Diamonds!]
 [22:44:31] [Server thread/INFO]: Robert_Rum34 was slain by Spider
 [22:44:33] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Robert_Rum34 accepted server config.
+[22:45:24] [Server thread/ERROR]: Couldn't load melody minecraft: (java.io.FileNotFoundException: ./world/data/melodies/minecraft/.bin (No such file or directory))
+[22:45:24] [Server thread/ERROR]: Couldn't delete melody minecraft: (java.nio.file.NoSuchFileException: ./world/data/melodies/minecraft/.bin)
+[22:45:37] [Server thread/ERROR]: Couldn't load melody minecraft: (java.io.FileNotFoundException: ./world/data/melodies/minecraft/.bin (No such file or directory))
+[22:45:37] [Server thread/ERROR]: Couldn't delete melody minecraft: (java.nio.file.NoSuchFileException: ./world/data/melodies/minecraft/.bin)
+[22:45:52] [Server thread/INFO]: [Not Secure] <Robert_Rum34> no mames lo que tengo
+[22:46:26] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que locura
+[22:46:30] [Server thread/INFO]: [Not Secure] <GabrielM3> q
+[22:46:45] [Server thread/INFO]: [Not Secure] <Robert_Rum34> cuando vengas lo veras es re epico
+[22:47:27] [Server thread/INFO]: [Not Secure] <Robert_Rum34> tienes hueso
+[22:47:31] [Server thread/INFO]: [Not Secure] <GabrielM3> pocos
+[22:47:35] [Server thread/INFO]: [Not Secure] <GabrielM3> pero si
+[22:47:57] [Server thread/INFO]: [Not Secure] <Robert_Rum34> si lo digo pa ti
+[22:48:21] [Server thread/INFO]: [Not Secure] <Robert_Rum34> cuanto agas tp fliparas
+[22:49:14] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que tu donde estas
+[22:49:20] [Server thread/INFO]: [Not Secure] <GabrielM3> en una dungeon
+[22:49:37] [Server thread/INFO]: [Not Secure] <Robert_Rum34> las arañas esta nun poco chetas
+[22:50:51] [Server thread/INFO]: [GabrielM3: Teleported GabrielM3 to Robert_Rum34]
+[22:51:05] [Server thread/INFO]: [Not Secure] <GabrielM3> xD
+[22:51:11] [Server thread/INFO]: [Not Secure] <Robert_Rum34> esta epico
+[22:51:21] [Server thread/INFO]: [Not Secure] <Robert_Rum34> 1 de hueso
+[22:51:24] [Server thread/INFO]: [Not Secure] <GabrielM3> tomma bro
+[22:51:35] [Server thread/INFO]: [Not Secure] <Robert_Rum34> pojito quedate aqui
+[22:52:25] [Server thread/INFO]: [Not Secure] <Robert_Rum34> falta trubi
+[22:52:29] [Server thread/INFO]: [Not Secure] <GabrielM3> si
+[22:52:37] [Server thread/INFO]: [Not Secure] <GabrielM3> mañana lo convensemos para jugar aca
+[22:52:46] [Server thread/INFO]: [Not Secure] <Robert_Rum34> se puede encantar el casco que tienes
+[22:53:11] [Server thread/INFO]: [Not Secure] <Robert_Rum34> si o no
+[22:53:18] [Server thread/INFO]: [Not Secure] <GabrielM3> nose
+[22:53:28] [Server thread/INFO]: [Not Secure] <Robert_Rum34> se podra?
+[22:53:50] [Server thread/INFO]: [Not Secure] <Robert_Rum34> lo digo porque tengo libro respiracion 1
+[22:54:00] [Server thread/INFO]: [Not Secure] <GabrielM3> eso te da respiracion infinita
+[22:54:07] [Server thread/INFO]: [Not Secure] <GabrielM3> el casco
+[22:54:14] [Server thread/INFO]: [Not Secure] <Robert_Rum34> creo que no no se
+[22:54:51] [Server thread/INFO]: [Not Secure] <GabrielM3> xD
