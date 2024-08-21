@@ -587,3 +587,45 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [21:09:38] [Server thread/INFO]: [voicechat] Sent secret to GabrielM3
 [21:10:18] [Server thread/INFO]: GabrielM3 has made the advancement [Not Today, Thank You]
 [21:10:28] [Server thread/INFO]: Trubite24 has made the advancement [Monster Hunter]
+[21:13:47] [Server thread/INFO]: Trubite24 has made the advancement [Stone Age]
+[21:14:56] [Server thread/INFO]: Robert_Rum34[/127.49.2.96:51057] logged in with entity id 1894 at (651.5, 124.0, -799.5)
+[21:14:56] [Server thread/INFO]: Robert_Rum34 joined the game
+[21:14:59] [Server thread/INFO]: [voicechat] Received secret request of Robert_Rum34 (18)
+[21:14:59] [Server thread/INFO]: [voicechat] Sent secret to Robert_Rum34
+[21:14:59] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Robert_Rum34 accepted server config.
+[21:15:29] [Server thread/INFO]: [Not Secure] <Robert_Rum34> hola
+[21:15:36] [Server thread/INFO]: [Not Secure] <GabrielM3> porfin
+[21:15:36] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que onda
+[21:15:41] [Server thread/INFO]: [Not Secure] <GabrielM3> logro desbloqueado
+[21:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[21:15:53] [Server thread/INFO]: [Not Secure] <Robert_Rum34> vamos
+[21:16:13] [Server thread/INFO]: [Not Secure] <Robert_Rum34> donde estan
+[21:16:34] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que guapo esto
+[21:16:36] [Server thread/INFO]: [Not Secure] <Trubite24> X:644.788 Y:100.00000
+[21:16:55] [Server thread/INFO]: [Not Secure] <Robert_Rum34> estoy lejos
+[21:17:39] [Server thread/INFO]: Made GabrielM3 a server operator
+[21:17:39] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of GabrielM3 accepted server config.
+[21:17:43] [Server thread/INFO]: [GabrielM3: Teleported Robert_Rum34 to GabrielM3]
+[21:18:28] [Server thread/INFO]: [Not Secure] <Robert_Rum34> no se como entre pero chido
+[21:18:57] [Server thread/INFO]: Robert_Rum34 has made the advancement [Stone Age]
+[21:19:06] [Server thread/INFO]: [Not Secure] <GabrielM3> con la m ves el mapa robert
+[21:19:12] [Server thread/INFO]: [Not Secure] <Robert_Rum34> si
+[21:19:19] [Server thread/INFO]: [Not Secure] <Robert_Rum34> me voy a viciar
+[21:19:20] [Worker-Main-7/WARN]: Empty height range: [0 absolute--16 absolute]
+[21:19:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:19:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:20:02] [Server thread/INFO]: Robert_Rum34 has made the advancement [Getting an Upgrade]
+[21:20:11] [Server thread/INFO]: [Not Secure] <Robert_Rum34> teneis para otra cama
+[21:20:30] [Server thread/INFO]: [Not Secure] <Robert_Rum34> comida
+[21:20:37] [Worker-Main-7/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[21:20:37] [Worker-Main-7/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[21:20:39] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:20:39] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:20:40] [Server thread/WARN]: GabrielM3 moved too quickly! -2.5228239606392435,2.252203340253729,-9.494558704011979
+[21:20:48] [Server thread/INFO]: Trubite24 has made the advancement [Acquire Hardware]
+[21:20:59] [Server thread/INFO]: [Not Secure] <Robert_Rum34> esto esta muy chido
+[21:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[21:21:26] [Server thread/INFO]: GabrielM3 has made the advancement [Suit Up]
+[21:21:29] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que es eso arriba de donde se pone el escudo
+[21:21:39] [Server thread/INFO]: Trubite24 has made the advancement [Isn't It Iron Pick]
+[21:21:57] [Server thread/INFO]: [GabrielM3: Teleported GabrielM3 to Trubite24]
