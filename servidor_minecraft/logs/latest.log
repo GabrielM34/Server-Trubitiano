@@ -629,3 +629,17 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [21:21:29] [Server thread/INFO]: [Not Secure] <Robert_Rum34> que es eso arriba de donde se pone el escudo
 [21:21:39] [Server thread/INFO]: Trubite24 has made the advancement [Isn't It Iron Pick]
 [21:21:57] [Server thread/INFO]: [GabrielM3: Teleported GabrielM3 to Trubite24]
+[21:23:07] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:23:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:08] [Server thread/INFO]: Robert_Rum34 has made the advancement [Monster Hunter]
+[21:27:20] [Server thread/INFO]: [Not Secure] <Robert_Rum34> con que cama
+[21:28:17] [Server thread/INFO]: [Not Secure] <Robert_Rum34> tengo lana
+[21:28:50] [Server thread/INFO]: [Not Secure] <GabrielM3> zz
+[21:28:57] [Server thread/INFO]: Robert_Rum34 has made the advancement [Sweet Dreams]
+[21:31:53] [Worker-Main-7/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[21:32:14] [Worker-Main-4/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[21:32:23] [Worker-Main-4/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[21:32:25] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:32:25] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:32:26] [Server thread/INFO]: [GabrielM3: Made Trubite24 a server operator]
+[21:32:27] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Trubite24 accepted server config.
