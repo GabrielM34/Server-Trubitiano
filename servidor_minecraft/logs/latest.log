@@ -870,3 +870,20 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [17:28:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Robert_Rum34 accepted server config.
 [17:29:05] [Server thread/INFO]: You whisper to Robert_Rum34: no mueras tanto xd
 [17:29:24] [Server thread/INFO]: [Not Secure] <Robert_Rum34> un zobi grande que quieres que aga
+[17:58:52] [Server thread/INFO]: GabrielM3[/127.230.205.80:58689] logged in with entity id 43448 at (630.314525920749, 129.0, -968.5200102306017)
+[17:58:52] [Server thread/INFO]: GabrielM3 joined the game
+[17:58:53] [Server thread/INFO]: [voicechat] Received secret request of GabrielM3 (18)
+[17:58:53] [Server thread/INFO]: [voicechat] Sent secret to GabrielM3
+[17:58:55] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of GabrielM3 accepted server config.
+[17:58:57] [Server thread/INFO]: [Not Secure] <Robert_Rum34> hola
+[17:59:04] [Server thread/INFO]: [Not Secure] <GabrielM3> hi
+[17:59:23] [Server thread/INFO]: [Not Secure] <Robert_Rum34> mira
+[17:59:40] [Server thread/INFO]: [Not Secure] <Robert_Rum34> cabezas
+[17:59:42] [Server thread/INFO]: [Not Secure] <GabrielM3> y que de privado es esto xd
+[17:59:52] [Server thread/INFO]: [Not Secure] <Robert_Rum34> no se
+[18:01:09] [Server thread/INFO]: GabrielM3 lost connection: Disconnected
+[18:01:09] [Server thread/INFO]: GabrielM3 left the game
+[18:01:09] [Server thread/INFO]: [voicechat] Disconnecting client GabrielM3
+[18:03:38] [Server thread/INFO]: Robert_Rum34 lost connection: Disconnected
+[18:03:38] [Server thread/INFO]: Robert_Rum34 left the game
+[18:03:38] [Server thread/INFO]: [voicechat] Disconnecting client Robert_Rum34
