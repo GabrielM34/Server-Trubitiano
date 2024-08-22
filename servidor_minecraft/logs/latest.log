@@ -866,3 +866,7 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [17:17:36] [Server thread/INFO]: GabrielM3 left the game
 [17:17:36] [Server thread/INFO]: [voicechat] Disconnecting client GabrielM3
 [17:20:56] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[17:28:25] [Server thread/INFO]: Robert_Rum34 was shot by Skeleton
+[17:28:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Robert_Rum34 accepted server config.
+[17:29:05] [Server thread/INFO]: You whisper to Robert_Rum34: no mueras tanto xd
+[17:29:24] [Server thread/INFO]: [Not Secure] <Robert_Rum34> un zobi grande que quieres que aga
