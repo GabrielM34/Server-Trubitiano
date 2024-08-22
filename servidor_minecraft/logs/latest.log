@@ -846,3 +846,23 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [17:13:50] [Server thread/INFO]: [Not Secure] <Robert_Rum34> es fuerte muy
 [17:13:53] [Server thread/INFO]: [GabrielM3: Teleported GabrielM3 to Robert_Rum34]
 [17:13:58] [Server thread/INFO]: [Not Secure] <GabrielM3> xD
+[17:14:20] [Server thread/INFO]: Robert_Rum34 was slain by Corrupted Enderman
+[17:14:22] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Robert_Rum34 accepted server config.
+[17:15:04] [Server thread/INFO]: [Not Secure] <Robert_Rum34> porque se va
+[17:15:55] [Server thread/INFO]: [Not Secure] <Robert_Rum34> ese enferman es fuerte pero chetados es facil
+[17:16:12] [Server thread/INFO]: [Not Secure] <Robert_Rum34> como se hace
+[17:16:20] [Server thread/INFO]: [Not Secure] <GabrielM3> quiero saber para que es
+[17:16:27] [Server thread/INFO]: [Not Secure] <GabrielM3> que habra ahi
+[17:16:35] [Server thread/INFO]: [Not Secure] <GabrielM3> seguiras jugando?
+[17:16:37] [Server thread/INFO]: [Not Secure] <GabrielM3> yo me voy
+[17:16:44] [Server thread/INFO]: [Not Secure] <Robert_Rum34> yo si un rato
+[17:16:46] [Server thread/INFO]: [Not Secure] <GabrielM3> consegui esto tambien
+[17:16:57] [Server thread/INFO]: [Not Secure] <Robert_Rum34> como
+[17:17:06] [Server thread/INFO]: [Not Secure] <GabrielM3> cuando te salgas avisas en el dc
+[17:17:09] [Server thread/INFO]: [Not Secure] <Robert_Rum34> ya entendi el mapa
+[17:17:09] [Server thread/INFO]: [Not Secure] <GabrielM3> para apagar el sv
+[17:17:36] [Server thread/INFO]: [Not Secure] <Robert_Rum34> hay diferentes mapas hi hay que recogerlos todos i abra una gran recompensa
+[17:17:36] [Server thread/INFO]: GabrielM3 lost connection: Disconnected
+[17:17:36] [Server thread/INFO]: GabrielM3 left the game
+[17:17:36] [Server thread/INFO]: [voicechat] Disconnecting client GabrielM3
+[17:20:56] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
