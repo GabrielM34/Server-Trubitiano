@@ -620,3 +620,31 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [21:18:37] [Server thread/INFO]: [voicechat] Sent secret to GabrielM3
 [21:20:01] [Server thread/WARN]: Trubite24 moved too quickly! 5.651999559065985,0.0,8.479494893353717
 [21:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[21:22:35] [Server thread/INFO]: [Not Secure] <Robert_Rum34> puedo ir con vosotros
+[21:22:39] [Server thread/INFO]: [Not Secure] <GabrielM3> yes
+[21:23:04] [Server thread/WARN]: GabrielM3 moved too quickly! -8.906241869271355,-1.9642517098257741,-4.4805783675178645
+[21:23:04] [Server thread/WARN]: Robert_Rum34 moved too quickly! -9.393395404253454,0.8800391385729398,-3.5299232148861392
+[21:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[21:23:30] [Server thread/INFO]: Robert_Rum34 has made the advancement [Bewitched]
+[21:24:23] [Server thread/INFO]: [Robert_Rum34: Teleported Robert_Rum34 to GabrielM3]
+[21:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[21:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6301ms or 126 ticks behind
+[21:25:23] [Server thread/INFO]: [Robert_Rum34: Teleported Robert_Rum34 to Trubite24]
+[21:27:23] [Server thread/INFO]: Trubite24 has made the advancement [Not Today, Thank You]
+[21:29:26] [Server thread/INFO]: [Robert_Rum34: Teleported Robert_Rum34 to Trubite24]
+[21:30:01] [Server thread/WARN]: GabrielM3 moved too quickly! -8.232250779931519,-0.5061351021062137,5.762214059175108
+[21:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:30:03] [Server thread/INFO]: Robert_Rum34 has made the advancement [Local Brewery]
+[21:30:06] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-423, y=36, z=-736} but found not block entity block Block{minecraft:water}[level=7] at location
+[21:30:06] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location class_2338{x=-423, y=36, z=-736}
+[21:30:22] [Worker-Main-5/ERROR]: Detected setBlock in a far chunk [-51, -59], pos: class_2339{x=-816, y=-46, z=-941}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[21:30:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:23] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:26] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:26] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:26] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:26] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:30:53] [Server thread/INFO]: [Robert_Rum34: Teleported Robert_Rum34 to GabrielM3]
